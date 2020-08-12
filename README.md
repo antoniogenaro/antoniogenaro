@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey
+
+🧐 I'm a **Javascript** developer, focused on **Angular**
+
+💻 Check out mi website! https://genaro.dev
 
 <!--
 **antoniogenaro/antoniogenaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
